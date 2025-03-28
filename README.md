@@ -1,1 +1,1 @@
-https://app.netlify.com/sites/rainbow-crostata-10074e/overview
+https://rainbow-crostata-10074e.netlify.app/
